@@ -6,7 +6,9 @@ function gotMessage(message,sender,sendResponse)
     var everything = document.getElementsByTagName('*');
     for(var j = 0;j < everything.length; j++)
     {
-      let regex = new RegExp(message.txt);
+      var temp = message.txt;
+      console.log(temp);
+      let regex = new RegExp(temp , 'i');
       console.log(regex);
       if((everything[j].getAttribute('href') != null) )
       {
