@@ -22,7 +22,7 @@ It is a chrome extension for a web browser that tells you about the stuff in the
   5. Go to any website and use our extension
 
  **Canva Link for your ready reference**
-https://www.canva.com/design/DAEwcDWfhZM/share/previewtoken=gv7_ATtZGjUl9l_V6X4B6A&role=EDITOR&utm_content=DAEwcDWfhZM&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
+https://www.canva.com/design/DAEwcDWfhZM/ogpQzDrPxANV8-iDCJUKtw/edit
 
  **Figma Link for your ready reference**
  
