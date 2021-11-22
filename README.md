@@ -20,3 +20,9 @@ It is a chrome extension for a web browser that tells you about the stuff in the
   3. Click on Load Unpacked option
   4. Select the file location where you stored your chrome extension
   5. Go to any website and use our extension
+
+ **Canva Link for your ready reference**
+https://www.canva.com/design/DAEwcDWfhZM/share/previewtoken=gv7_ATtZGjUl9l_V6X4B6A&role=EDITOR&utm_content=DAEwcDWfhZM&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
+
+ **Figma Link for your ready reference**
+ https://www.figma.com/file/5bgEroTHemaTjnfYgHKypp/Untitled?node-id=0%3A1
