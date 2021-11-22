@@ -1,9 +1,8 @@
+chrome.runtime.onMessage.addListener(reciever);
 
-// chrome.runtime.onMessage.addListener(reciever);
+window.word="";
 
-// window.word="";
-
-// function reciever(request,sender,sendResponse)
-// {
-//     word=request.text;
-// }   
+function reciever(request,sender,sendResponse)
+{
+    word=request.text;
+}   

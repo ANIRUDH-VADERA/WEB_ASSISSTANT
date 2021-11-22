@@ -10,10 +10,7 @@
             "js" : ["content.js"]
         }
     ],
-    "chrome_url_overrides" : {
-        "newtab" : "styles/popup.html"
-    },    
-    "permissions":["tabs"],
+    "permissions":["tabs" , "storage"],
     "background" : {
         "scripts" : ["background.js"]
     },

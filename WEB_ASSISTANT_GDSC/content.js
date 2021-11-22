@@ -29,16 +29,16 @@ function gotMessage(message,sender,sendResponse)
     }
 }
 
-// window.addEventListener("mouseup" , selected);
+window.addEventListener("mouseup" , selected);
 
-// function selected()
-// {
-//   let selectedText=window.getSelection().toString().trim();
-//   if(selectedText.length>0)
-//   {
-//     let message={
-//       text : selectedText
-//     };
-//     chrome.runtime.sendMessage(message);
-//   }
-// }
+function selected()
+{
+  let selectedText=window.getSelection().toString().trim();
+  if(selectedText.length>0)
+  {
+    let message={
+      text : selectedText
+    };
+    chrome.runtime.sendMessage(message);
+  }
+}
