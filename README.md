@@ -1,6 +1,6 @@
 # WEB_ASSISSTANT
 <p align="center">
-<img src="https://github.com/ANIRUDH-VADERA/WEB_ASSISSTANT/blob/main/WEB_ASSISTANT_GDSC/images/main_logo.svg"></img>
+<img src="https://github.com/ANIRUDH-VADERA/WEB_ASSISSTANT/blob/main/WEB_ASSISTANT_GDSC/images/main_logo2.svg"></img>
 </p>
 
 # WEB_ASSISTANT
