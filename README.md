@@ -5,7 +5,7 @@
 
 # WEB_ASSISTANT
 
-It is a chrome extension for a web browser that tells you about the stuff in the current web page
+It is a chrome extension for a web browser that tells you about the content in the current web page
 
 **Functionality**
   1. Will provide a search bar to "search for a keyword" that one might need but cannot find.
